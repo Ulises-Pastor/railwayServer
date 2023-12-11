@@ -9,7 +9,7 @@
             "url": "https://opensource.org/licenses/MIT"
         }
     },
-    "host": "localhost:3000",
+    "host": "blinkstore.onrender.com",
     "basePath": "",
     "tags": [
         {
@@ -58,7 +58,7 @@
         }
     ],
     "schemes": [
-        "http"
+        "https"
     ],
     "consumes": [
         "application/json"
